@@ -7,7 +7,7 @@ LOGFILE = 'ask_gertrude_log.txt'
 RESEARCHLOG = 'ask_gertrude_research.txt'
 STEINSENTENCES = 'stein_sentences.txt'
 
-from config import *
+from config import *kk
 from datetime import datetime
 import sys
 import twitter, os, random
